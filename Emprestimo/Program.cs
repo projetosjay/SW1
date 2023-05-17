@@ -16,6 +16,9 @@ class Program
         
 
         double saldo = (agencia.juros() + agencia.emprestimo())* agencia.meses;
+        Console.WriteLine("seu juros do mês é: " + agencia.juros());
+        Console.WriteLine("Sua prestação do mês é: " + agencia.emprestimo());
+        Console.WriteLine("Seu juros + a prestação" + )
         Console.WriteLine("Total é R$" + saldo);
 
         

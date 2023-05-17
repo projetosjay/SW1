@@ -8,8 +8,8 @@ class Emprestimo
     public double meses {get;set;}
 
 
-        public void depositar(double valor){
-        this.saldo += valor;
+    public void depositar(double valor){
+    this.saldo += valor;
     }
 
 
