@@ -7,6 +7,9 @@ class Contrato
 
     public virtual string? Telefone {get; set;}
 
+
+    
+
     public virtual string? MostraDados(){
         return this.Nome + this.Email + this.Telefone;
     }

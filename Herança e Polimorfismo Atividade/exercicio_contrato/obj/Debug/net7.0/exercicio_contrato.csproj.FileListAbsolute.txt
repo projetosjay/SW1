@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\exercicio_contrato\bin\Debug\net7.0\exercicio_contrato.exe
+C:\Users\LAB4\Desktop\exercicio_contrato\bin\Debug\net7.0\exercicio_contrato.deps.json
+C:\Users\LAB4\Desktop\exercicio_contrato\bin\Debug\net7.0\exercicio_contrato.runtimeconfig.json
+C:\Users\LAB4\Desktop\exercicio_contrato\bin\Debug\net7.0\exercicio_contrato.dll
+C:\Users\LAB4\Desktop\exercicio_contrato\bin\Debug\net7.0\exercicio_contrato.pdb
+C:\Users\LAB4\Desktop\exercicio_contrato\obj\Debug\net7.0\exercicio_contrato.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\exercicio_contrato\obj\Debug\net7.0\exercicio_contrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\exercicio_contrato\obj\Debug\net7.0\exercicio_contrato.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\exercicio_contrato\obj\Debug\net7.0\exercicio_contrato.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\exercicio_contrato\obj\Debug\net7.0\exercicio_contrato.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\exercicio_contrato\obj\Debug\net7.0\exercicio_contrato.dll
+C:\Users\LAB4\Desktop\exercicio_contrato\obj\Debug\net7.0\refint\exercicio_contrato.dll
+C:\Users\LAB4\Desktop\exercicio_contrato\obj\Debug\net7.0\exercicio_contrato.pdb
+C:\Users\LAB4\Desktop\exercicio_contrato\obj\Debug\net7.0\exercicio_contrato.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\exercicio_contrato\obj\Debug\net7.0\ref\exercicio_contrato.dll
